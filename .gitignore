@@ -205,6 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-amd_ai_login.txt
 
+# Own
+amd_ai_login.txt
 .vscode/settings.json
